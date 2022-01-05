@@ -239,3 +239,11 @@ section {
 .contact-info a {
   color: #fce138;
 }
+/* UTILITIES */
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
